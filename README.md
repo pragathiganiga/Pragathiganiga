@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pragathi</h1>
 <h3 align="center">I'm enthusiastic about becoming a full-stack developer</h3>
 
+## 📖 Education Qualifications
+
+- Currently Persuing B.E in Canara Engineering College (Computer Science and Business System) (CGPA-8.2)
+- Completed PUC from SVPUC Gangolli (PCMB)
+
 - 🌱 I’m currently learning **React,MERN**
 
 - 💬 Ask me about **Front end technologies like HTML, CSS, Tailwind CSS JS and Bootstrap, Backend technologies like PHP and Database- mySql**
