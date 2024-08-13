@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragathiganiga&label=Profile%20views&color=0e75b6&style=flat" alt="pragathiganiga" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragathiganiga" alt="pragathiganiga" /></a> </p>
-- I am currently persuing Engineering in Canara Engineering College
 
 - 🌱 I’m currently learning **React,MERN**
 
