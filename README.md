@@ -4,7 +4,6 @@
 ## 📖 Education Qualifications
 
 - Currently Persuing B.E in Canara Engineering College (Computer Science and Business System) (CGPA-8.2)
-- Completed PUC from SVPUC Gangolli (PCMB)
 
 - 🌱 I’m currently learning **React,MERN**
 
