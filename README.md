@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React,MERN**
 
-- 💬 Ask me about **Front end technologies like HTML, CSS, Tailwind CSS JS and Bootstrap, Backend technologies like PHP and Database- mySql**
+- 💬 Ask me about **Front end technologies like HTML, CSS, Tailwind CSS JS and Bootstrap, Backend technologies like PHP,Laravel and Database- mySql**
 
 - 📫 How to reach me **pragathip8746@gmail.com**
 
