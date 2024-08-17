@@ -12,6 +12,7 @@
 💬 **Front-End Technologies**:
 - HTML
 - CSS
+- React JS
 - Tailwind CSS
 - JavaScript
 - Bootstrap
@@ -27,6 +28,7 @@
 ## 📫 How to Reach Me
 
 - **Email**: [pragathip8746@gmail.com](mailto:pragathip8746@gmail.com)
+- **Portfolio**: [portfolio.com](https://portfilio-pragathi.netlify.app/)
 
 ## 📫 Connect with me
 
