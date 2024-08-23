@@ -28,6 +28,8 @@
 ## 📫 How to Reach Me
 
 - **Email**: [pragathip8746@gmail.com](mailto:pragathip8746@gmail.com)
+- **Resume**: [Pragathi_Resume](file:///C:/Users/praga/AppData/Local/Temp/MicrosoftEdgeDownloads/e1e36eec-d209-420c-8210-60a55e6d5632/pragathi_resume%20(1).pdf)
+- **Portfolio**: [portfolio.com](https://portfilio-pragathi.netlify.app/)
 - **Portfolio**: [portfolio.com](https://portfilio-pragathi.netlify.app/)
 
 ## 📫 Connect with me
