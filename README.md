@@ -30,7 +30,6 @@
 - **Email**: [pragathip8746@gmail.com](mailto:pragathip8746@gmail.com)
 - **Resume**: [Pragathi_Resume](https://drive.google.com/file/d/1ZplKOLTEk232Pr3dTKL1-SbQEp5Y36V1/view?usp=sharing)
 - **Portfolio**: [portfolio.com](https://portfilio-pragathi.netlify.app/)
-- **Portfolio**: [portfolio.com](https://portfilio-pragathi.netlify.app/)
 
 ## 📫 Connect with me
 
