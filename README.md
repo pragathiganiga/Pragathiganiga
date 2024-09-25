@@ -3,7 +3,7 @@
 
 ## 📖 Education Qualifications
 
-- Currently Persuing B.E in Canara Engineering College (Computer Science and Business System) (CGPA-8.2)
+- Currently Persuing B.E in Canara Engineering College (Computer Science and Business System) (CGPA-8.3)
 
 - 🌱 I’m currently learning **React,MERN**
 
