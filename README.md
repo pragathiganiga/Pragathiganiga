@@ -13,6 +13,7 @@
 - HTML
 - CSS
 - React JS
+- Typescript
 - Tailwind CSS
 - JavaScript
 - Bootstrap
