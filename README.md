@@ -7,18 +7,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 </p>
 
-
 ---
 
 ## 🎓 Education
 🎓 **Currently Pursuing** B.E in **Canara Engineering College**  
 📚 **Branch**: Computer Science and Business System (CSBS)  
-📊 **CGPA**: 8.3  
+📊 **CGPA**: 8.6 
 
 ---
 
 ## 🌱 Currently Learning
-- **React JS**, **MERN Stack**  
 - Deepening knowledge in **Full-Stack Development**  
 
 ---
