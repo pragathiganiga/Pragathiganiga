@@ -10,7 +10,7 @@
 ## 📖 Education Qualifications
 🎓 **Bachelor of Engineering** - Computer Science and Business Systems  
 📍 **Canara Engineering College**  
-📊 **CGPA:** 8.3  
+📊 **CGPA:** 8.6
 
 ---
 
