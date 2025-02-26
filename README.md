@@ -18,12 +18,12 @@
 - JavaScript
 - Bootstrap
 
-💬 **Back-End Technologies**:
-- PHP
-- Laravel
+💬 **Language**:
+- Java
 
 💬 **Database**:
 - MySQL
+- SQL
 
 
 ## 📫 How to Reach Me
