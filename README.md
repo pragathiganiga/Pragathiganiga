@@ -1,61 +1,89 @@
-<h1 align="center">Hi 👋, I'm Pragathi</h1>
-<h3 align="center">A passionate Full-Stack Developer in the making 🚀</h3>
-
----
-
-## 🎓 Education
-🎓 **Currently Pursuing** B.E in **Canara Engineering College**  
-📚 **Branch**: Computer Science and Business System (CSBS)  
-📊 **CGPA**: 8.3  
-
----
-
-## 🌱 Currently Learning
-- **React JS**, **MERN Stack**  
-- Deepening knowledge in **Full-Stack Development**  
-
----
-
-## 💡 Ask Me About  
-### 🎨 **Front-End Technologies**
-- HTML | CSS | JavaScript | React JS | Tailwind CSS | Bootstrap | TypeScript  
-
-### 💻 **Programming Language**
-- Java  
-
-### 🛢 **Databases**
-- MySQL | SQL  
-
----
-
-## 📫 Connect with Me  
-📩 **Email**: [pragathip8746@gmail.com](mailto:pragathip8746@gmail.com)  
-🌐 **Portfolio**: [portfolio.com](https://portfilio-pragathi.netlify.app/)  
-📄 **Resume**: [View Here](https://drive.google.com/file/d/1ZplKOLTEk232Pr3dTKL1-SbQEp5Y36V1/view?usp=sharing)  
-🔗 **LinkedIn**: [Pragathi Ganiga](https://www.linkedin.com/in/pragathi-ganiga-518968224)  
-
----
-
-## ⚙️ Languages & Tools  
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Pragathi!;Aspiring+Full-Stack+Developer;Passionate+about+Web+Technologies;Lifelong+Learner+%F0%9F%93%96" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,bootstrap,php,java,mysql,nodejs,git,github,vscode" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 </p>
+
+---
+
+## 🚀 About Me  
+
+👩‍💻 **Aspiring Full-Stack Developer** | 💡 **Passionate about Web Technologies**  
+🎓 **B.E - Computer Science & Business Systems** | **Canara Engineering College** | **CGPA:** 8.3  
+🌱 **Currently Learning:** React & MERN Stack  
+📌 **Goal:** Mastering Full-Stack Development  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🎨 **Front-End**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🛠️ **Back-End & Database**  
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔧 **Tools & Technologies**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragathiganiga&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragathiganiga&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pragathiganiga&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragathiganiga&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathiganiga&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathiganiga&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages">
 </p>
 
 ---
 
-🔥 **Thank you for visiting!** 🚀  
-💡 *Let's connect and build amazing things together!*  
+## 🌍 Connect With Me  
+
+📧 **Email:** [pragathip8746@gmail.com](mailto:pragathip8746@gmail.com)  
+📄 **Resume:** [Pragathi_Resume](https://drive.google.com/file/d/1ZplKOLTEk232Pr3dTKL1-SbQEp5Y36V1/view?usp=sharing)  
+🌐 **Portfolio:** [portfolio.com](https://portfilio-pragathi.netlify.app/)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pragathi-ganiga-518968224" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pragathiganiga&theme=tokyonight&margin-w=10&row=1&column=7" alt="GitHub Trophies">
+</p>
+
+---
+
+## 💬 Fun Fact  
+
+🎯 **"Code, Coffee & Creativity - The perfect combo!"** ☕💻✨  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+</p>
