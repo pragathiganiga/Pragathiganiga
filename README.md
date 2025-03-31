@@ -23,7 +23,7 @@
 
 ## 💡 Ask Me About  
 ### 🎨 **Front-End Technologies**
-- HTML | CSS | JavaScript | React JS | Tailwind CSS | Bootstrap | TypeScript  
+- HTML | CSS | JavaScript | React JS | Tailwind CSS | Bootstrap | TypeScript | Next Js  
 
 ### 💻 **Programming Language**
 - Java  
