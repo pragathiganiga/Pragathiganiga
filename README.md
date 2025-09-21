@@ -10,9 +10,9 @@
 ---
 
 ## 🎓 Education
-🎓 **Currently Pursuing** B.E in **Canara Engineering College**  
+🎓 **Pursuied** B.E in **Canara Engineering College**  
 📚 **Branch**: Computer Science and Business System (CSBS)  
-📊 **CGPA**: 8.6 
+📊 **CGPA**: 8.64
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 💡 Ask Me About  
 ### 🎨 **Front-End Technologies**
-- HTML | CSS | JavaScript | React JS | Tailwind CSS | Bootstrap | TypeScript | Next Js  
+- HTML | CSS | JavaScript | React JS | Tailwind CSS | Bootstrap | TypeScript | React Native
 
 ### 💻 **Programming Language**
 - Java  
