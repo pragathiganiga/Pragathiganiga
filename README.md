@@ -36,7 +36,7 @@
 ## 📫 Connect with Me  
 📩 **Email**: [pragathip8746@gmail.com](mailto:pragathip8746@gmail.com)  
 🌐 **Portfolio**: [portfolio.com](https://portfilio-pragathi.netlify.app/)  
-📄 **Resume**: [View Here](https://drive.google.com/file/d/1ZplKOLTEk232Pr3dTKL1-SbQEp5Y36V1/view?usp=sharing)  
+📄 **Resume**: [View Here](https://drive.google.com/file/d/1aXFwesMMro1-Rcecp-_UAjuJnLxcWuQD/view?usp=sharing)  
 🔗 **LinkedIn**: [Pragathi Ganiga](https://www.linkedin.com/in/pragathi-ganiga-518968224)  
 
 ---
