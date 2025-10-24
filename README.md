@@ -21,25 +21,6 @@
 
 ---
 
-## 🚀 Projects  
-
-### 🌐 [Rumor Detection System](https://github.com/pragathiganiga/rumor-detection)
-Built a system to detect fake news and rumors on social networks using **Random Forest** and **SVM** models. Includes real-time headline verification and user dashboard.
-
-### 📱 [Loan Calculator App](https://github.com/pragathiganiga/loan-calculator)
-A simple and responsive **React Native app** to calculate loan EMI with dynamic UI and smooth animations.
-
-### 🧁 [Ice Cream Product Display Website](https://github.com/pragathiganiga/icecream-store)
-An e-commerce style website built with **HTML, CSS, and JavaScript**, displaying ice cream products in a grid layout with responsive design.
-
-### 🎲 [Dice Game](https://github.com/pragathiganiga/dice-game)
-A fun **JavaScript game** where two players roll dice to test their luck, showcasing DOM manipulation skills.
-
-### 🧠 [Deepfake Video Detection](https://github.com/pragathiganiga/deepfake-detection)
-Implemented an **LSTM-based model** to detect deepfake videos by analyzing frame sequences and facial inconsistencies.
-
----
-
 ## 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pragathiganiga&show_icons=true&theme=github_dark&hide_border=true" height="165" />
