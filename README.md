@@ -41,7 +41,7 @@
 ---
 
 ## ✨ Fun Fact  
-💡 *Code + Coffee = My Perfect Combo ☕*  
+💡 *Code + Tea = My Perfect Combo ☕*  
 
 ---
 
