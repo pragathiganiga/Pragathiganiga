@@ -5,7 +5,7 @@
 ---
 
 ## 🖤 About Me
-- 💼 Working as **Mobile Developer** at **Zersys Tech Pvt Ltd**  
+- 💼 Working as **Software Engineer** at **TechProxima**  
 - 🎓 Pursued **B.E in Computer Science & Business System (CSBS)** at **Canara Engineering College**  
 - 📊 CGPA: **8.64**  
 - 🌱 Currently deepening skills in **Full-Stack Development & AI Projects**  
